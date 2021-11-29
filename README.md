@@ -38,7 +38,7 @@ I worked as a freelance programmer developing different programs:
 - Frontend integration with api services and databases.
 - Integration of modules for inventory, purchase and sale services.
 
-#### knowledge areas
+### knowledge areas
 - SQL and NoSQL databases
 - Backend / Frontend
 - C#, C++ and VB.net.
