@@ -38,6 +38,17 @@ I worked as a freelance programmer developing different programs:
 - Frontend integration with api services and databases.
 - Integration of modules for inventory, purchase and sale services.
 
+#### knowledge areas
+- SQL and NoSQL databases
+- Backend / Frontend
+- C#, C++ and VB.net.
+- Github, Gitlab and Bitbucket
+- Nodejs, Go, Angular, Java, Python and more.
+- AWS and GCloud services
+- Docker, Docker-compose
+- Kubernetes and Service Mesh
+- CI/CD with Gitlab
+
 <hr>
 
 ### Contact
