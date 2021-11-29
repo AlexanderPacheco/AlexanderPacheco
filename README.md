@@ -1,43 +1,56 @@
-- 👋 Soy @AlexanderPacheco
-- 👀 Estoy interesando en mostrar mis capacidades en el area de desarrollo. Tengo experiencia en el ambito laboral y muy competitivo.
-- 🌱 Actualmente estoy aprendiendo y mejorando mi conocimiento en tecnologias como Angular, Nodejs y servicios en la nube.
-- 📫 Pueden contactarme a mi correo alexixva@gmail.com
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alexander Pacheco </h1>
+<h3 align="center">Systems Engineering and Sciences student</h3>
 
 
-## Portafolio de proyectos.
+### Connect with Me
 
-### Proyectos Individuales
+<p align="center">
+<a href="https://www.linkedin.com/in/alexander-pacheco-224178209/"><img src="https://img.shields.io/badge/-Alexander%20Pacheco%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alexixva@gmail.com"><img src="https://img.shields.io/badge/-alexixva@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+<hr>
 
->CRUD a base de datos relacional, funciones y triggers
->>https://github.com/alexdevep/BaseDatos.git
+### About Me
 
->Proyecto desarrollado en C# .Net para el curso de compiladores 2
->>https://github.com/OLC2/proyecto1.git
+🎓 &nbsp; I'm currently studying Science and Systems Engineering at the University of San Carlos de Guatemala.
 
->Proyecto desarrollado en C# .Net para el curso de compiladores 2
->>https://github.com/OLC2/proyecto1_compi_pascal.git
+🌱 &nbsp; I'm looking for an opportunity, I have professional experience and I trust that I have knowledges, skills, and motivation to work in different organizations and companies for software development.
+
+- Some of my qualifications are fast learner, hard worker, and be a team player. 
+- I also have experience in many programming languages, databases, scripting language, DevOps tools, and cloud platforms.
+- I have knowledge in the mange of pipelines of CI/CD to automate processes using Gitlab.
+
+👀 &nbsp; In my free time, I like to read science fiction books, listen music and watch series.
+
+### My jobs
+I have approximately 2 years working in organizations and 2 years working independently in different tools and developing with different technologies.
+
+#### [Fixnet.io](https://fixnet.io/)
+I worked developing different programs and implementing systems, some of my tasks were:
+- Online billing generation with Infile, Guatefacturas and Digifact.
+- Development of the Database model.
+- Product inventory management.
+- Create reports.
+
+#### Freelancer
+I worked as a freelance programmer developing different programs:
+- Programs with online billing service.
+- Frontend integration with api services and databases.
+- Integration of modules for inventory, purchase and sale services.
+
+<hr>
+
+### Contact
+✉️  &nbsp;You can shoot me an email at alexixva@gmail.com or a call or message at +(502)3567-6161. It will be a pleasure to talk with you!.
+<hr>
 
 
-### Proyectos en equipo.
+### ⚙️ &nbsp;GitHub Analytics
 
->Proyecto creado bajo metodologia scrum y desarrollado en framework Django, conexion a base de datos MySQL para guardar informacion de una clinica medica (Crear citas, recetas y gestion de reporteria)
->>https://proyecto1analisis1.wordpress.com
+<p align="center">
 
->Codigo de desarrollo
->>https://github.com/Analisis-y-Diseno-1/calendariocitas.git
-
->Proyecto desarrollado para interactuar con servicios de Amazon AWS, especialmente con servicios S3, RDS, EC2 y Rekognition.
-
->Frontend: Angular, npm.
->>https://github.com/alexdevep/semi1_practica1_front.git
-
->Backend: Nodejs, npm y express.
->>https://github.com/alexdevep/semi1-practica1.git
-
-- 👀 He desarrollado en Visual Basic .NET (.vb), C/C++, C# .NET con servicios de API y FEL.
-- 👀 He consumido base de datos Oracle, PostgreSQL, MySQL, DynamoDB, MongoDB.
-
-<!---
-AlexanderPacheco/AlexanderPacheco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/AlexanderPacheco">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexanderPacheco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexanderPacheco&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
