@@ -25,6 +25,11 @@
 ### My jobs
 I have approximately 2 years working in organizations and 2 years working independently in different tools and developing with different technologies.
 
+### [BSCI](https://bsci.net.gt/)
+External programmer in Cerveceria Centroamericana project.
+- Developing in ASPX.net and SQL Server projects.
+- Teamwork with agile methodologies.
+
 #### [Fixnet.io](https://fixnet.io/)
 I worked developing different programs and implementing systems, some of my tasks were:
 - Online billing generation with Infile, Guatefacturas and Digifact.
@@ -48,6 +53,10 @@ I worked as a freelance programmer developing different programs:
 - Docker, Docker-compose
 - Kubernetes and Service Mesh
 - CI/CD with Gitlab
+
+<hr>
+
+### [Docker & Kubernetes course](https://cursos-dev.com/certificate/gcU5rtXYnK)
 
 <hr>
 
