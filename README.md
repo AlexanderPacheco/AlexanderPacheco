@@ -58,6 +58,7 @@ I worked as a freelance programmer developing different programs:
 
 #### [Docker & Kubernetes course](https://cursos-dev.com/certificate/gcU5rtXYnK)
 #### [Certified Kubernetes Application Developer (CKAD)](https://www.linkedin.com/learning/certificates/d9b60fb2771d74dd24699d98639b0152666422fa7579a184574a024bcc8cbeb3?trk=share_certificate)
+### [React](https://www.linkedin.com/learning/certificates/067be4bac6f1fc1f702b0bfcfd485e28e2e8cd18386b65a579665e97ccfc0274?trk=share_certificate)
 
 <hr>
 
