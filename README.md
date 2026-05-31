@@ -64,7 +64,7 @@ I worked as a freelance programmer developing different programs:
 <hr>
 
 ### Contact
-✉️  &nbsp;You can shoot me an email at alexixva@gmail.com or a call or message at +(502)3567-6161. It will be a pleasure to talk with you!.
+✉️  &nbsp;You can shoot me an email at alexixva@gmail.com. It will be a pleasure to talk with you!.
 <hr>
 
 
